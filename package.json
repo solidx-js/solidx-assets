@@ -1,0 +1,10 @@
+{
+  "name": "solidx-assets",
+  "version": "1.0.0",
+  "files": [
+    "texture"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
